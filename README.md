@@ -1,4 +1,4 @@
-## Hi there 👋
+🌐 **X_ITE** is an open-source Web3D engine written in JavaScript for bringing standards-based 3D graphics to the web. 🧊 It supports **X3D, VRML, glTF, and other 3D formats**, with powerful **WebGL-based rendering** and seamless integration into HTML through the `<x3d-canvas>` element. 🚀 Built for performance, interoperability, and the future of interactive 3D on the web.
 
 <!--
 **create3000/create3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
